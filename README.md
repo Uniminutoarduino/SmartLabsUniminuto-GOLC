@@ -12,3 +12,4 @@ The laboratory arose according to the educational problems regarding experimenta
 ###### Fig 1. Main feaures of smartlabsuniminuto.
 
 ## Programming modes
+Serchin to expand the students that could use our laboratory, we developed two programming modes. The first one is text-based. There, the students can program directly in Python Language. This mode is offered to students with experience in programming.

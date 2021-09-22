@@ -11,6 +11,8 @@ The laboratory arose according to the educational problems regarding experimenta
 ![Imag1](https://user-images.githubusercontent.com/11606241/134404259-5af59424-fdb3-4c48-b344-de1bbe3d9db6.png)
 ###### Fig 1. Main feaures of smartlabsuniminuto.
 
+With the laboratory, the students can program in Python language and interact with hardware devices interfaced with a Raspberry Pi in each node. 
+
 ## 1.1 Programming modes
 Searching to expand the scope of students that could use our laboratory, we developed two programming modes (text-based, block-based). 
 
@@ -18,4 +20,4 @@ Searching to expand the scope of students that could use our laboratory, we deve
 There, the students can program directly in Python Language. This mode could be used by students with experience in programming.
 
 ### 1.1.2 block-based programming
-There, the students can program using graphcal blocks (Blockly). This mode could be used by novice students.
+There, the students can program using graphical blocks (Blockly). This mode could be used by novice students.

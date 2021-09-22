@@ -21,3 +21,17 @@ There, the students can program directly in Python Language. This mode could be 
 
 ### 1.1.2 block-based programming
 There, the students can program using graphical blocks (Blockly). This mode could be used by novice students.
+
+## Credit
+This study has been possible with the efforts of the following persons:
+
+- MEd. Jonathan Álvarez Ariza: jalvarez@uniminuto.edu
+- MSc. Sergio Gónzalez Gil: segonzalez@uniminuto.edu
+
+Engineering Professors
+
+Program of Technology in Electronics and Systems Enginnering, Corporación Universitaria Minuto de Dios-UNIMINUTO
+
+111021, Bogotá, Colombia
+
+**Thank you for your interest in this research :wink:**

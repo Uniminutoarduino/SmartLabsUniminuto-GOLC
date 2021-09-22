@@ -10,3 +10,5 @@ The laboratory arose according to the educational problems regarding experimenta
 
 ![Imag1](https://user-images.githubusercontent.com/11606241/134404259-5af59424-fdb3-4c48-b344-de1bbe3d9db6.png)
 ###### Fig 1. Main feaures of smartlabsuniminuto.
+
+## Programming modes

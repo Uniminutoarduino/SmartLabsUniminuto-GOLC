@@ -26,6 +26,11 @@ alt="IMAGE ALT TEXT HERE" width="400" height="300" border="2" /></a>
 ### 1.1.2 block-based programming
 There, the students can program using graphical blocks (Blockly). This mode could be used by novice students.
 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=TnZlTCT3V1w
+" target="_blank"><img src="http://img.youtube.com/vi/TnZlTCT3V1w/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="400" height="300" border="2" /></a>
+
 # 2. Educational concepts and outcomes with the laboratory 
 
 # 3. Description of files and folders in the repository

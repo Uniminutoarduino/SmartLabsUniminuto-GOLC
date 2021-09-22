@@ -1,6 +1,6 @@
 # SmartLabsUniminuto-GOLC
 
-This is the online repository for the GOLC_2022 international award. In this repository, you can find the main information concerning the laboratory (smartlabsuniminuto), e.g., structure, features, modes of programming, educational goals and outcomes, and presentation video.
+This is the online repository for the GOLC_2022 international award. In this repository, you can find the main information concerning the laboratory (smartlabsuniminuto), e.g., structure, features, modes of programming, educational goals and outcomes, and presentation video. For more information about this award, please consult the link http://online-engineering.org/GOLC_online-lab-award.php
 
 # What is *Smartlabsuniminuto*?
 

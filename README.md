@@ -23,7 +23,7 @@ There, the students can program directly in Python Language. This mode could be 
 " target="_blank"><img src="http://img.youtube.com/vi/1azGjeaalZ0/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="400" height="300" border="2" /></a>
 
-### 1.1.2 block-based programming
+### 1.1.2 blocks-based programming
 There, the students can program using graphical blocks (Blockly). This mode could be used by novice students.
 
 

@@ -19,8 +19,8 @@ Searching to expand the scope of students that could use our laboratory, we deve
 ### 1.1.1 Text-based programming
 There, the students can program directly in Python Language. This mode could be used by students with experience in programming.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=q7Gga1873oI
-" target="_blank"><img src="http://img.youtube.com/vi/q7Gga1873oI/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=1azGjeaalZ0
+" target="_blank"><img src="http://img.youtube.com/vi/1azGjeaalZ0/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="400" height="300" border="10" /></a>
 
 ### 1.1.2 block-based programming

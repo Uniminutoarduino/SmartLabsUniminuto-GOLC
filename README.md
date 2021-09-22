@@ -22,7 +22,11 @@ There, the students can program directly in Python Language. This mode could be 
 ### 1.1.2 block-based programming
 There, the students can program using graphical blocks (Blockly). This mode could be used by novice students.
 
-## Credit
+# 2. Educational concepts and outcomes with the laboratory 
+
+# 3. Description of files and folders in the repository
+
+# Credit
 This study has been possible with the efforts of the following persons:
 
 - MEd. Jonathan Álvarez Ariza: jalvarez@uniminuto.edu

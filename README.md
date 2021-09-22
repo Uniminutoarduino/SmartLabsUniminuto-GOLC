@@ -9,4 +9,4 @@ This is the online repository for the GOLC_2022 international award. In this rep
 The laboratory arose according to the educational problems regarding experimentation, hands-on activities and learning by doing produced by the COVID-19 pandemic in 2020. The laboratory is focused on programming through Python Language and a beta version for control systems education with a level control plant. Among the main features of *Smartlabsuniminuto*, we have:
 
 ![Imag1](https://user-images.githubusercontent.com/11606241/134402881-b8cdf087-b711-47e8-a7af-957d2e8d9cab.png)
-###### Fig 1. Main feaures of smartlabsuniminuto
+###### Fig 1. Main feaures of smartlabsuniminuto.

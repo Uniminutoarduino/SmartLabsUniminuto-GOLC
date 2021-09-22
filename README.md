@@ -14,7 +14,7 @@ The laboratory arose according to the educational problems regarding experimenta
 With the laboratory, the students can program in Python language and interact with hardware devices which have been interfaced with a Raspberry Pi in each node. The remote laboratory is available in Spanish.
 
 ## 1.1 Programming modes
-Searching to expand the scope of students that could use our laboratory, we developed two programming modes (text-based, block-based). Please, click in the images to see the videos on YouTube.
+Searching to expand the scope of students that could use our laboratory, we developed two programming modes (text-based, block-based). Please, click on the images to see the videos in YouTube.
 
 ### 1.1.1 Text-based programming
 There, the students can program directly in Python Language. This mode could be used by students with experience in programming.

@@ -1,0 +1,58 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="configurargpio" id="^iWVw73a}|!`,M_t2tLl" x="110" y="-30">
+    <field name="OpcionesConfig">Salida</field>
+    <value name="ValGPIO">
+      <block type="math_number" id="Eh%A*%(gb3=xH]rUV8J)">
+        <field name="NUM">17</field>
+      </block>
+    </value>
+    <next>
+      <block type="controls_whileUntil" id="k*u+pL?%^^VXQq8%-UKj">
+        <field name="MODE">WHILE</field>
+        <value name="BOOL">
+          <block type="logic_boolean" id="R}*{$sa;or}Ixe`AUp]R">
+            <field name="BOOL">TRUE</field>
+          </block>
+        </value>
+        <statement name="DO">
+          <block type="escribirgpio" id="*w{q4/IcjDUo..HrrQ*_">
+            <field name="Opciones">0</field>
+            <value name="ValGPIO">
+              <block type="math_number" id="%%:3sHL)Vyhki1c/.gi[">
+                <field name="NUM">17</field>
+              </block>
+            </value>
+            <next>
+              <block type="retraso" id="bBKZVWVWkAPVc6na?(QG">
+                <value name="Tiempo">
+                  <block type="math_number" id="Np$;I/o+6zX}iOON0,Ds">
+                    <field name="NUM">0.5</field>
+                  </block>
+                </value>
+                <next>
+                  <block type="escribirgpio" id="Nj@bUz=YD$uE6JE,5X[+">
+                    <field name="Opciones">1</field>
+                    <value name="ValGPIO">
+                      <block type="math_number" id="dO0CWbKh/$=6}{hCoWI[">
+                        <field name="NUM">17</field>
+                      </block>
+                    </value>
+                    <next>
+                      <block type="retraso" id="KWv8x@xmaQMP!LMDzP8T">
+                        <value name="Tiempo">
+                          <block type="math_number" id="+2rXhIEN?1F],EyzNIBW">
+                            <field name="NUM">0.5</field>
+                          </block>
+                        </value>
+                      </block>
+                    </next>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </statement>
+      </block>
+    </next>
+  </block>
+</xml>

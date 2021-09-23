@@ -1,0 +1,102 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <variables>
+    <variable type="" id="O4^x#Uhip5m0#cV]*]+_">a</variable>
+    <variable type="" id="W0Oyh@H@28_XP`vX7`3;">b</variable>
+  </variables>
+  <block type="iniciarlcd" id="9Tea)Kz{M~O#OJPS;0Hn" x="150" y="-50">
+    <value name="dir">
+      <block type="text" id="#a2x7hvy+}|i=SUzE[4l">
+        <field name="TEXT">0x27</field>
+      </block>
+    </value>
+    <next>
+      <block type="variables_set" id="}*l8|-9}E%Z,((!VA@c6">
+        <field name="VAR" id="O4^x#Uhip5m0#cV]*]+_" variabletype="">a</field>
+        <value name="VALUE">
+          <block type="math_number" id="%`l/*.D3maC!v_zUVMk]">
+            <field name="NUM">0</field>
+          </block>
+        </value>
+        <next>
+          <block type="controls_whileUntil" id="!r}{-wZD)AraGeGU.2LJ">
+            <field name="MODE">WHILE</field>
+            <value name="BOOL">
+              <block type="logic_boolean" id="$lAiJk{hIImKy,nlK:v6">
+                <field name="BOOL">TRUE</field>
+              </block>
+            </value>
+            <statement name="DO">
+              <block type="variables_set" id="1bnJfQ0$(iY2oaiMfDIX">
+                <field name="VAR" id="O4^x#Uhip5m0#cV]*]+_" variabletype="">a</field>
+                <value name="VALUE">
+                  <block type="math_arithmetic" id="H.2hlGBOg?f*i`=2SJ@(">
+                    <field name="OP">ADD</field>
+                    <value name="A">
+                      <shadow type="math_number" id="1c0PJb|gjEK,hhhFO+Dl">,                        
+                        <field name="NUM">1</field>,                      
+                      </shadow>
+                      <block type="variables_get" id="(ue*+V=F5$6/I:%b}xI=">
+                        <field name="VAR" id="O4^x#Uhip5m0#cV]*]+_" variabletype="">a</field>
+                      </block>
+                    </value>
+                    <value name="B">
+                      <shadow type="math_number" id="kdfT7IZqg(EmZgN0D7/4">
+                        <field name="NUM">1</field>
+                      </shadow>
+                    </value>
+                  </block>
+                </value>
+                <next>
+                  <block type="variables_set" id="TtZfV*#Bjl.JGTGC!?}m">
+                    <field name="VAR" id="W0Oyh@H@28_XP`vX7`3;" variabletype="">b</field>
+                    <value name="VALUE">
+                      <block type="convertirstr" id="(FXeJ(h2`5+sCKdFqH1u">
+                        <value name="variable">
+                          <block type="variables_get" id="vAOzvFok824+M_MS6@Za">
+                            <field name="VAR" id="O4^x#Uhip5m0#cV]*]+_" variabletype="">a</field>
+                          </block>
+                        </value>
+                      </block>
+                    </value>
+                    <next>
+                      <block type="lcdcursor" id="e^vgDmko-9,L]6_RGhBF">
+                        <value name="fila">
+                          <block type="math_number" id="89nV=WNe56PR|U_Sv0?D">
+                            <field name="NUM">0</field>
+                          </block>
+                        </value>
+                        <value name="columna">
+                          <block type="math_number" id=":]V*;KND=W+cIpZ:_24;">
+                            <field name="NUM">0</field>
+                          </block>
+                        </value>
+                        <next>
+                          <block type="escribirlcd" id="VP^%=Y4sp%J;M,K8A9GQ">
+                            <value name="Texto">
+                              <block type="variables_get" id="DH9CS-9-Y?0UA-J8Tt!c">
+                                <field name="VAR" id="W0Oyh@H@28_XP`vX7`3;" variabletype="">b</field>
+                              </block>
+                            </value>
+                            <next>
+                              <block type="retraso" id="z!_=iprQ1A=(9e1}4b_k">
+                                <value name="Tiempo">
+                                  <block type="math_number" id="E;`aM9)l,t^x1;aJ,*#V">
+                                    <field name="NUM">1</field>
+                                  </block>
+                                </value>
+                              </block>
+                            </next>
+                          </block>
+                        </next>
+                      </block>
+                    </next>
+                  </block>
+                </next>
+              </block>
+            </statement>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+</xml>

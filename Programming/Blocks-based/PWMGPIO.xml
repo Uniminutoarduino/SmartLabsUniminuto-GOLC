@@ -1,0 +1,137 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <variables>
+    <variable type="" id="U!~;b2?s9ZKO7N)c5Zy/">i</variable>
+  </variables>
+  <block type="configurargpio" id="QdCCAhNKETKyONR!r9Qo" x="130" y="-70">
+    <field name="OpcionesConfig">Salida</field>
+    <value name="ValGPIO">
+      <block type="math_number" id="N[m;w;)67M_[}OQwOEf-">
+        <field name="NUM">17</field>
+      </block>
+    </value>
+    <next>
+      <block type="configurarpwm" id="HD]o#3R8%7Dm)kR9tj2!">
+        <value name="Pin">
+          <block type="math_number" id="W@@5#de#XqA*Ud^`@O(C">
+            <field name="NUM">17</field>
+          </block>
+        </value>
+        <value name="frec">
+          <block type="math_number" id="Qg$[]?a{?()V*JZTDhh{">
+            <field name="NUM">500</field>
+          </block>
+        </value>
+        <next>
+          <block type="iniciopwm" id="DrnA=`*[FfcQp15Rz),[">
+            <value name="Ciclo">
+              <block type="math_number" id="K71p!Uh8$eOHR9KZ$az/">
+                <field name="NUM">50</field>
+              </block>
+            </value>
+            <value name="Pin">
+              <block type="math_number" id="T6sfDM46:rQJV5B1Ym:s">
+                <field name="NUM">17</field>
+              </block>
+            </value>
+            <next>
+              <block type="variables_set" id="CWL`Aly4#]hR[{ve(ULV">
+                <field name="VAR" id="U!~;b2?s9ZKO7N)c5Zy/" variabletype="">i</field>
+                <value name="VALUE">
+                  <block type="math_number" id="j?AoJU~O.mJrYK;@x.^R">
+                    <field name="NUM">0</field>
+                  </block>
+                </value>
+                <next>
+                  <block type="controls_whileUntil" id="eg1CkO`u;CxsgCLk`8m*">
+                    <field name="MODE">WHILE</field>
+                    <value name="BOOL">
+                      <block type="logic_boolean" id="gPG/k-lP2frnjGAr]bhd">
+                        <field name="BOOL">TRUE</field>
+                      </block>
+                    </value>
+                    <statement name="DO">
+                      <block type="controls_if" id="nfkoADM(+oF4i+SHu#Rk">
+                        <mutation else="1"></mutation>
+                        <value name="IF0">
+                          <block type="logic_compare" id="bEZ/Lu!*KcGBr{/??eUY">
+                            <field name="OP">LT</field>
+                            <value name="A">
+                              <block type="variables_get" id="N#+fUZsmg|D{Q|!DsD]c">
+                                <field name="VAR" id="U!~;b2?s9ZKO7N)c5Zy/" variabletype="">i</field>
+                              </block>
+                            </value>
+                            <value name="B">
+                              <block type="math_number" id="^09#QZ%=Ko{#*{.-U50)">
+                                <field name="NUM">100</field>
+                              </block>
+                            </value>
+                          </block>
+                        </value>
+                        <statement name="DO0">
+                          <block type="variables_set" id="KqKX=yjE!){n,mV{k|zv">
+                            <field name="VAR" id="U!~;b2?s9ZKO7N)c5Zy/" variabletype="">i</field>
+                            <value name="VALUE">
+                              <block type="math_arithmetic" id="eDKdzM@leSvpK[pqSqf+">
+                                <field name="OP">ADD</field>
+                                <value name="A">
+                                  <shadow type="math_number" id="5xe~v=8zV~=qgF.?#Bq^">,                                    
+                                    <field name="NUM">1</field>,                                  
+                                  </shadow>
+                                  <block type="variables_get" id="]$Nj8iPMPD~WrHLyu{!;">
+                                    <field name="VAR" id="U!~;b2?s9ZKO7N)c5Zy/" variabletype="">i</field>
+                                  </block>
+                                </value>
+                                <value name="B">
+                                  <shadow type="math_number" id="z76L:xQ8O`$4r-[^2O0k">
+                                    <field name="NUM">20</field>
+                                  </shadow>
+                                </value>
+                              </block>
+                            </value>
+                          </block>
+                        </statement>
+                        <statement name="ELSE">
+                          <block type="variables_set" id="i4x3[W2|8Ce=C;%{*tGD">
+                            <field name="VAR" id="U!~;b2?s9ZKO7N)c5Zy/" variabletype="">i</field>
+                            <value name="VALUE">
+                              <block type="math_number" id="-#`1Y/EM9U/wsnJ-gNd=">
+                                <field name="NUM">0</field>
+                              </block>
+                            </value>
+                          </block>
+                        </statement>
+                        <next>
+                          <block type="cambiarciclopwm" id="Pm$o3_9rLxG.MP,|%`(7">
+                            <value name="Ciclo">
+                              <block type="variables_get" id="19W:z_,:#tl~WbMp|g2k">
+                                <field name="VAR" id="U!~;b2?s9ZKO7N)c5Zy/" variabletype="">i</field>
+                              </block>
+                            </value>
+                            <value name="Pin">
+                              <block type="math_number" id="GKd/__2*38kl4v5Wi7Ci">
+                                <field name="NUM">17</field>
+                              </block>
+                            </value>
+                            <next>
+                              <block type="retraso" id="!Jv[7rgh@;|Q-APe.v.5">
+                                <value name="Tiempo">
+                                  <block type="math_number" id="%|i/`+f^Q!adSSdpL4oT">
+                                    <field name="NUM">0.3</field>
+                                  </block>
+                                </value>
+                              </block>
+                            </next>
+                          </block>
+                        </next>
+                      </block>
+                    </statement>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+</xml>

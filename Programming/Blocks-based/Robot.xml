@@ -1,0 +1,72 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="iniciarservos" id="`UrN_;jAxn--:mhU.CxD" x="30" y="-70">
+    <next>
+      <block type="barridoservo" id="juF,Mz.gP#a7bg#~#_F_">
+        <value name="Pin">
+          <block type="math_number" id="#Lnj]k6QDC[/-[f.MZ8r">
+            <field name="NUM">23</field>
+          </block>
+        </value>
+        <value name="Min">
+          <block type="math_number" id="E0CUaWnt$73J*H8BGW]5">
+            <field name="NUM">3</field>
+          </block>
+        </value>
+        <value name="Max">
+          <block type="math_number" id="Y%I9@VSdWkL;0gPDy_rb">
+            <field name="NUM">12</field>
+          </block>
+        </value>
+        <value name="Centro">
+          <block type="math_number" id="I%Md#lISi0:dnzlaDZbu">
+            <field name="NUM">6</field>
+          </block>
+        </value>
+        <value name="Tiempopasos">
+          <block type="math_number" id="Q%y8Ctn6h4doQEbmU6sX">
+            <field name="NUM">0.8</field>
+          </block>
+        </value>
+        <value name="Veces">
+          <block type="math_number" id="6`74Rl3Mn]KeJrOzrTgk">
+            <field name="NUM">5</field>
+          </block>
+        </value>
+        <next>
+          <block type="barridoservo" id="J5N;H!8uv(DR)]_sX!Ii">
+            <value name="Pin">
+              <block type="math_number" id="F5h|!IEAFppV[5S40$V@">
+                <field name="NUM">24</field>
+              </block>
+            </value>
+            <value name="Min">
+              <block type="math_number" id="T#8bU5j2FQR;W3Yid=b{">
+                <field name="NUM">3</field>
+              </block>
+            </value>
+            <value name="Max">
+              <block type="math_number" id="FLbo/s,;SZs)AT+_SOA]">
+                <field name="NUM">12</field>
+              </block>
+            </value>
+            <value name="Centro">
+              <block type="math_number" id="}{NQKM#;3(Gg8iHvo]49">
+                <field name="NUM">6</field>
+              </block>
+            </value>
+            <value name="Tiempopasos">
+              <block type="math_number" id=":eKP(f2Qs.M_$p[BRj_~">
+                <field name="NUM">0.8</field>
+              </block>
+            </value>
+            <value name="Veces">
+              <block type="math_number" id="^y(7^*`m`wd~2d6vW~dP">
+                <field name="NUM">5</field>
+              </block>
+            </value>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+</xml>

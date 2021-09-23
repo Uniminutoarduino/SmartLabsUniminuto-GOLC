@@ -1,0 +1,41 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="iniciarlcd" id="3MmZhh?aF!qym5^zHM$b" x="170" y="70">
+    <value name="dir">
+      <block type="text" id="|8rm[+.8X4dti?z[+RYH">
+        <field name="TEXT">0x27</field>
+      </block>
+    </value>
+    <next>
+      <block type="escribirlcd" id=".*5=CDg=ul_n$nGO3Kb/">
+        <value name="Texto">
+          <block type="text" id="(HILN8df2hkn4v+(S3eO">
+            <field name="TEXT">Hello</field>
+          </block>
+        </value>
+        <next>
+          <block type="lcdcursor" id="v-,QpT[VI:z/?~Ym=b*i">
+            <value name="fila">
+              <block type="math_number" id="U!F+li8YCek(98AuSYqq">
+                <field name="NUM">1</field>
+              </block>
+            </value>
+            <value name="columna">
+              <block type="math_number" id="T`w{oudsGD1LjYw?*wj,">
+                <field name="NUM">0</field>
+              </block>
+            </value>
+            <next>
+              <block type="escribirlcd" id="+eI8A-4$_89CPiI,4u.S">
+                <value name="Texto">
+                  <block type="text" id="!=F?SH+5g`v(CPp#FB~B">
+                    <field name="TEXT">GOLC !</field>
+                  </block>
+                </value>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+</xml>

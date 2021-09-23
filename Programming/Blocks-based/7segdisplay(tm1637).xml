@@ -1,0 +1,13 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="iniciartm1637" id="FR4UIol_e+3YY@nsEClY" x="90" y="-70">
+    <next>
+      <block type="escribirtextotm1637" id="zf:i/!~lR6k1ZyHm2!xe">
+        <value name="texto">
+          <block type="text" id="5w+FB^SEP5k~,PLmh_u6">
+            <field name="TEXT">Hola Mundo</field>
+          </block>
+        </value>
+      </block>
+    </next>
+  </block>
+</xml>

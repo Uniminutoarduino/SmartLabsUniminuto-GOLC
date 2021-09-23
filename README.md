@@ -51,8 +51,8 @@ The nodes count with the following hardware devices and materials:
 # 2. Educational concepts and outcomes with the laboratory 
 Smartlabsuniminuto have been tested by roughly *n=60* students from 2020 to 2021 (first semester). The test in a real educational setting was divided in the following stages:
 
-- 2020. We tested the remote laboratory with n=30 students of Systems Engineering. The average age of the students was 18.5 years with a students' distribution of 90% male and 10% female.
-- 2021. We have tested the remote laboratory with n=30 students of Systems Engineering. The average age of the students was 19.1 years with a students' distribution of 87.71% male and 12.29% female.
+- We tested the remote laboratory with n=30 students of Systems Engineering in 2020. The average age of the students was 18.5 years with a students' distribution of 90% male and 10% female.
+- We have tested the remote laboratory with n=30 students of Systems Engineering in 2021 (first semester). The average age of the students was 19.1 years with a students' distribution of 87.71% male and 12.29% female.
 
 # 3. Description of files and folders in the repository
 

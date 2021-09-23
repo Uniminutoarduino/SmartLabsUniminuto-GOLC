@@ -54,7 +54,11 @@ Smartlabsuniminuto have been tested by roughly *n=60* students from 2020 to 2021
 - We tested the remote laboratory with n=30 students of Systems Engineering in 2020. The average age of the students was 18.5 years with a students' distribution of 90% male and 10% female.
 - We have tested the remote laboratory with n=30 students of Systems Engineering in 2021 (first semester). The average age of the students was 19.1 years with a students' distribution of 87.71% male and 12.29% female.
 
-To collect the information and perceptions of the students about the remote laboratory in the courses, we developed two surveys (2020-2021) according to the Technology Acceptance Model (TAM). In general terms, the students have had a good acceptance of the laboratory which is manifested by the comments and the descriptive statistics in each survey. To know in-depth the results in (2020), please, consult the folder *Article (Paper IEEE Rita-preprint)*. This is a preprint article presented to the IEEE journal (Revista Iberoamericana de Tecnologias de Aprendizaje-RITA). The article was accepted with minor revisions and it could give an idea about the elements such technical as educational taken into account in the remote laboratory. 
+To collect the information and perceptions of the students about the remote laboratory in the courses, we developed two surveys (2020-2021) according to the Technology Acceptance Model (TAM). In general terms, the students have had a good acceptance of the laboratory which is manifested by the comments and the descriptive statistics in each category of the surveys. To know in-depth the results in (2020), please, consult the folder *Article (Paper IEEE Rita-preprint)*. This is a preprint article presented to the IEEE journal (Revista Iberoamericana de Tecnologias de Aprendizaje-RITA). The article was accepted with minor revisions and it could give an idea about the elements such technical as educational taken into account in the remote laboratory. 
+
+If you want to see the surveys with their responses in Google Forms, please see the follwing links:
+- 2020 (https://docs.google.com/spreadsheets/d/1C93m2tW9Stez-d2noz7AoC18rDQcv62aNwe2zUAkjZs/edit?usp=sharing)
+- 2021 (https://docs.google.com/spreadsheets/d/17mQAp9Me4CKpd2XKMxwKP06FYitIavrlkD0VlvXsBKU/edit?usp=sharing)
 
 # 3. Description of files and folders in the repository
 

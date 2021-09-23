@@ -17,7 +17,7 @@ With the laboratory, the students can program in Python language and interact wi
 Searching to expand the scope of students that could use our laboratory, we developed two programming modes (text-based, block-based). Please, click on the images to see the videos in YouTube.
 
 ### 1.1.1 Text-based programming
-There, the students can program directly in Python Language. This mode could be used by students with experience in programming.
+There, the students can program directly in Python Language. This mode could be used by students with experience in programming or who desire to know the statements and structure of Python.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=1azGjeaalZ0
 " target="_blank"><img src="http://img.youtube.com/vi/1azGjeaalZ0/0.jpg" 

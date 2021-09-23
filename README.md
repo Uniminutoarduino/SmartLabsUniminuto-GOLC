@@ -49,9 +49,9 @@ The nodes count with the following hardware devices and materials:
 ###### Table 1. Description of hardware components used in the nodes.
 
 # 2. Educational concepts and outcomes with the laboratory 
-Our primary goal with Smartlabsuniminuto is to support the educational process of the students in programming, physical computing, and control systems from a constructivist point of view. At the start of the project (year 2020), we developed 15 nodes to support teaching and learning of programming and physical computing. As part of different improvements, several students in their final year want to create additional modules for the Remote Laboratory (RL). Thus, a tank control system that can be programmed in Python language was created and interfaced with the RL.  
+Our primary goal with *Smartlabsuniminuto* is to support the educational process of the students in programming, physical computing, and control systems from a constructivist point of view. At the start of the project (year 2020), we developed 15 nodes to support teaching and learning of programming and physical computing. As part of different improvements, several students in their final year want to create additional modules for the Remote Laboratory (RL). Thus, a tank control system that can be programmed in Python language was created and interfaced with the RL.  
 
-Smartlabsuniminuto have been tested by roughly *n=60* students from 2020 to 2021 (first semester). The test in a real educational setting was divided in the following stages:
+*Smartlabsuniminuto* have been tested by roughly *n=60* students from 2020 to 2021 (first semester). The test in a real educational setting was divided in the following stages:
 
 - We tested the remote laboratory with n=30 students of Systems Engineering in 2020. The average age of the students was 18.5 years with a students' distribution of 90% male and 10% female.
 - We have tested the remote laboratory with n=30 students of Systems Engineering in 2021 (first semester). The average age of the students was 19.1 years with a students' distribution of 87.71% male and 12.29% female.

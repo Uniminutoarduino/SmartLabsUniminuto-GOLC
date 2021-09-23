@@ -66,6 +66,8 @@ The laboratory has been improved continuosly, and the students evaluated the lab
 
 # 3. Description of files and folders in the repository
 
+# 4. Instructions for reviewers
+
 # Credit
 This study has been possible with the efforts of the following persons:
 

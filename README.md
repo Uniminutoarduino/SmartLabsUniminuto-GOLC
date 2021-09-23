@@ -42,9 +42,9 @@ The nodes count with the following hardware devices and materials:
 
 | Node | Description | Hardware components
 | ------------- | ------------- | ------------- |
-| 1-16 | Nodes for programming |Raspberry Pi V4 (2GB), protoboard (830 points), 4 leds, 1 display tm1637, 1 LCD (2x16), 1 robotic arm (2 DOF), 8Mpx Camera |
-| 17  | Node for control systems. Control Plant (Tank system)  | Raspberry Pi V4 (2GB), motor pump (2), Ultrasonic sensor (US-016), Analog to Digital Converter (ADC) AD1115, 8Mpx Camera |
-| 18  | Nodes for programming and sensing  |Raspberry Pi V4 (2GB), protoboard (830 points), 4 leds, 1 display tm1637, 1 LCD (2x16), 1 robotic arm (2 DOF), 1 temperature sensor TMP100, 1 lamp, 1 light-dimmer module, 8Mpx Camera|
+| 1-16 | Nodes for programming |Raspberry Pi V4 (2GB), protoboard (830 points), 4 leds, 1 display tm1637, 1 LCD (2x16), 1 robotic arm (2 DOF), 8Mpx Camera, 1 camera support.|
+| 17  | Node for control systems. Control Plant (Tank system)  | Raspberry Pi V4 (2GB), motor pump (2), Ultrasonic sensor (US-016), Analog to Digital Converter (ADC) AD1115, 8Mpx Camera, 1 camera support. |
+| 18  | Nodes for programming and sensing  |Raspberry Pi V4 (2GB), protoboard (830 points), 4 leds, 1 display tm1637, 1 LCD (2x16), 1 robotic arm (2 DOF), 1 temperature sensor TMP100, 1 lamp, 1 light-dimmer module, 8Mpx Camera, 1 camera support.|
 
 ###### Table 1. Description of hardware components used in the nodes.
 

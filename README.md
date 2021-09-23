@@ -49,6 +49,10 @@ The nodes count with the following hardware devices and materials:
 ###### Table 1. Description of hardware components used in the nodes.
 
 # 2. Educational concepts and outcomes with the laboratory 
+Smartlabsuniminuto has been tested by roughly *n=100* students from 2020 to 2021 (first semester). The test in a real educational setting was divided in the following stages:
+
+-
+-
 
 # 3. Description of files and folders in the repository
 

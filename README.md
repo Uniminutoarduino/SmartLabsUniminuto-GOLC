@@ -60,6 +60,8 @@ If you want to see the surveys with their responses in Google Forms, please see 
 - 2020 (https://docs.google.com/spreadsheets/d/1C93m2tW9Stez-d2noz7AoC18rDQcv62aNwe2zUAkjZs/edit?usp=sharing)
 - 2021 (https://docs.google.com/spreadsheets/d/17mQAp9Me4CKpd2XKMxwKP06FYitIavrlkD0VlvXsBKU/edit?usp=sharing)
 
+The laboratory has been improved continuosly, and the students evaluated the laboratory in 2020 and 2021 with 4.25 and 4.61 in a scale from 0 to 5. The students in 2020 have described some problems with the camera and video codecs that were solved for the year 2021, reducing for instance the video bandwidth in each node and the scripts in Python to connect the remote laboratory with each Raspberry Pi.
+
 # 3. Description of files and folders in the repository
 
 # Credit

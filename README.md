@@ -34,7 +34,7 @@ alt="Blocks-based programming" width="400" height="300" border="2" /></a>
 ## 1.2 Hardware
 We have developed a low-cost module in a 3D printer to emsamble the different hardware elements employed in each node. Also, each module (0-17) counts with a robotic arm with 2 Degree of Freedom (DOF). 
 
-<img src="https://user-images.githubusercontent.com/11606241/134495226-8488ba42-5131-460d-9ac9-fa17a9a82497.jpeg" width="250"><img src="https://user-images.githubusercontent.com/11606241/134495354-20166d25-2311-4edf-8eae-a30adc68fc31.jpg" width="250">
+<img src="https://user-images.githubusercontent.com/11606241/134495226-8488ba42-5131-460d-9ac9-fa17a9a82497.jpeg" width="350">    <img src="https://user-images.githubusercontent.com/11606241/134495354-20166d25-2311-4edf-8eae-a30adc68fc31.jpg" width="350">
 
 
 # 2. Educational concepts and outcomes with the laboratory 

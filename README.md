@@ -37,6 +37,14 @@ We have developed a low-cost module in a 3D printer to emsamble the different ha
 <img src="https://user-images.githubusercontent.com/11606241/134497125-bb9c9359-bc7d-4bb7-937f-ba6ceebc54ae.jpg" width="350">
 <img src="https://user-images.githubusercontent.com/11606241/134495226-8488ba42-5131-460d-9ac9-fa17a9a82497.jpeg" width="350"><img src="https://user-images.githubusercontent.com/11606241/134495354-20166d25-2311-4edf-8eae-a30adc68fc31.jpg" width="350">
 
+The nodes count with the following hardware devices and materials:
+
+| Node | Description | Hardware components
+| ------------- | ------------- | ------------- |
+| 1-16 | Contenido de la celda  ||
+| 17  | Control Plant (Tank system)  | Raspberry Pi V4 (2GB), motor pump (2), Ultrasonic sensor (US-0.16) |
+| 18  | Contenido de la celda  ||
+
 
 # 2. Educational concepts and outcomes with the laboratory 
 

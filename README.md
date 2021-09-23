@@ -67,10 +67,10 @@ The laboratory has been improved continuosly, and the students evaluated the lab
 # 3. Description of files and folders in the repository
 
 **Folders**
-- Article with students: In this folder is located an article for the control system (tank plant) created with students. The article has been aproved in the IEEE conference ICACIT (https://icacit.org.pe/simposio/)
-- Base Article: Preprint article with the aspects technical and educational of the RL. The article has been aproved with minor revisions in the SJR Q3-IEEE journal (Revista Iberoamericana de tecnologías de aprendizaje-RITA).
-- Control Systems: This folder contains the different scripts for the control plant (Only NODE 17). In the scripts you can find the controllers: Proportional (P), Proportional-Integral (PI), and Proportional-Integral-Derivative (PID).
-- Programming: This folder contains the scripts and graphical algorithms for different functions of the RL, for instance: Handling GPIOs, LCD, 7 segment display, robotic arm, temperature sensor, among other in the two modes of programming (text-based) and (blocks-based).
+- Article with students: In this folder is located an article for the control system (tank plant) created with students. The article has been approved in the IEEE conference ICACIT (https://icacit.org.pe/simposio/)
+- Base Article: Preprint article with the aspects technical and educational of the RL. The article has been approved with minor revisions in the SJR Q3-IEEE journal (Revista Iberoamericana de tecnologías de aprendizaje-RITA).
+- Control Systems: This folder contains the different scripts for the control plant (Only NODE 17). In the scripts, you can find the controllers: Proportional (P), Proportional-Integral (PI), and Proportional-Integral-Derivative (PID).
+- Programming: This folder contains the scripts and graphical algorithms for different functions of the RL, for instance: Handling GPIOs, LCD, 7 segment display, robotic arm, temperature sensor, among others in the two modes of programming (text-based) and (blocks-based).
 
 # 4. Instructions for reviewers
 

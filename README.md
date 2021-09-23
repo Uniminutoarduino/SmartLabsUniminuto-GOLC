@@ -32,7 +32,7 @@ There, the students can program using graphical blocks (Blockly). This mode coul
 alt="Blocks-based programming" width="400" height="300" border="2" /></a>
 
 ## 1.2 Hardware
-We have developed a low-cost module in a 3D printer to emsamble the different hardware elements employed in each node. Also, each module (0-17) counts with a robotic arm with 2 Degree of Freedom (DOF). 
+We have developed a low-cost module in a 3D printer to emsamble the different hardware elements employed in each node. Also, each module (0-17) counts with a robotic arm with 2 Degree of Freedom (DOF) and several additional components as it will be described in table 1. 
 
 <img src="https://user-images.githubusercontent.com/11606241/134497125-bb9c9359-bc7d-4bb7-937f-ba6ceebc54ae.jpg" width="300">
 <img src="https://user-images.githubusercontent.com/11606241/134495226-8488ba42-5131-460d-9ac9-fa17a9a82497.jpeg" width="300"><img src="https://user-images.githubusercontent.com/11606241/134495354-20166d25-2311-4edf-8eae-a30adc68fc31.jpg" width="300">
@@ -47,6 +47,7 @@ The nodes count with the following hardware devices and materials:
 | 17  | Control Plant (Tank system)  | Raspberry Pi V4 (2GB), motor pump (2), Ultrasonic sensor (US-016), Analog to Digital Converter (ADC) AD1115, 8Mpx Camera |
 | 18  | Nodes for programming and sensing  |Raspberry Pi V4 (2GB), protoboard (830 points), 4 leds, 1 display tm1637, 1 LCD (2x16), 1 robotic arm (2 DOF), 1 temperature sensor TMP100, 1 lamp, 1 light-dimmer module, 8Mpx Camera|
 
+###### Table 1. Description of hardware components used in the nodes.
 
 # 2. Educational concepts and outcomes with the laboratory 
 

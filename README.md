@@ -49,7 +49,7 @@ The nodes count with the following hardware devices and materials:
 ###### Table 1. Description of hardware components used in the nodes.
 
 # 2. Educational concepts and outcomes with the laboratory 
-Our primary goal with Smartlabsuniminuto is to support the educational process of the students in programming and control systems. At the start of the project (year 2020), we developed 15 nodes to support teaching and learning of programming and physical computing. As part to different improvements, several students in their final year want to create additional modules for the Remote Laboratory (RL). Thus, a tank control system that can be programmed in Python language was created and interfaced with the RL.  
+Our primary goal with Smartlabsuniminuto is to support the educational process of the students in programming, physical computing, and control systems from a constructivist point of view. At the start of the project (year 2020), we developed 15 nodes to support teaching and learning of programming and physical computing. As part of different improvements, several students in their final year want to create additional modules for the Remote Laboratory (RL). Thus, a tank control system that can be programmed in Python language was created and interfaced with the RL.  
 
 Smartlabsuniminuto have been tested by roughly *n=60* students from 2020 to 2021 (first semester). The test in a real educational setting was divided in the following stages:
 

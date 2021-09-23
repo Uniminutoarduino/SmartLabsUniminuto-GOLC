@@ -21,7 +21,7 @@ There, the students can program directly in Python Language. This mode could be 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=1azGjeaalZ0
 " target="_blank"><img src="http://img.youtube.com/vi/1azGjeaalZ0/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="400" height="300" border="2" /></a>
+alt="Text-based programming" width="400" height="300" border="2" /></a>
 
 ### 1.1.2 blocks-based programming
 There, the students can program using graphical blocks (Blockly). This mode could be used by novice students.
@@ -29,12 +29,12 @@ There, the students can program using graphical blocks (Blockly). This mode coul
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=TnZlTCT3V1w
 " target="_blank"><img src="http://img.youtube.com/vi/TnZlTCT3V1w/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="400" height="300" border="2" /></a>
+alt="Blocks-based programming" width="400" height="300" border="2" /></a>
 
 ## 1.2 Hardware
-We have developed a low-cost module in a 3D printer to emsamble the different hardware elements employed in each node. Also, each module (0-17) counts with a robotic arm in with 2 Degree of Freedom (DOF). 
-![IMG-20201111-WA0039](https://user-images.githubusercontent.com/11606241/134495226-8488ba42-5131-460d-9ac9-fa17a9a82497.jpeg)
-![Planta](https://user-images.githubusercontent.com/11606241/134495354-20166d25-2311-4edf-8eae-a30adc68fc31.jpg)
+We have developed a low-cost module in a 3D printer to emsamble the different hardware elements employed in each node. Also, each module (0-17) counts with a robotic arm with 2 Degree of Freedom (DOF). 
+![IMG-20201111-WA0039](https://user-images.githubusercontent.com/11606241/134495226-8488ba42-5131-460d-9ac9-fa17a9a82497.jpeg =250x250)
+![Planta](https://user-images.githubusercontent.com/11606241/134495354-20166d25-2311-4edf-8eae-a30adc68fc31.jpg =250x250)
 
 # 2. Educational concepts and outcomes with the laboratory 
 

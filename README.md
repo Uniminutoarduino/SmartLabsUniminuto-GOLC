@@ -21,8 +21,8 @@ alt="Blocks-based programming" width="400" height="300" border="2" /></a>
 
 (Spanish Presentation):
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=4iBcO_PigIo
-" target="_blank"><img src="http://img.youtube.com/vi/4iBcO_PigIo/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=bnkgsYKd124
+" target="_blank"><img src="http://img.youtube.com/vi/bnkgsYKd124/0.jpg" 
 alt="Blocks-based programming" width="400" height="300" border="2" /></a>
 
 

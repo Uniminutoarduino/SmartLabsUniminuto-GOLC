@@ -88,7 +88,7 @@ The laboratory has been improved continuosly, and the students evaluated the lab
 # 4. Instructions for reviewers
 Please, follow the instructions available at the following videos:
 
-Instructions for reviewers (English):
+Instructions for reviewers (English): https://youtu.be/neN03aYQ8tk
 
 Instructions for reviewers (Spanish)
 

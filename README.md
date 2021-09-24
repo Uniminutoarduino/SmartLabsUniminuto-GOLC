@@ -86,6 +86,14 @@ The laboratory has been improved continuosly, and the students evaluated the lab
 - Programming: This folder contains the scripts and graphical algorithms for different functions of the RL, for instance: Handling GPIOs, LCD, 7-segment display, robotic arm, temperature sensor, among others in the two modes of programming (text-based) and (blocks-based).
 
 # 4. Instructions for reviewers
+Please, follow the instructions available at the following videos:
+
+Instructions for reviewers (English):
+
+Instructions for reviewers (Spanish)
+
+Credentials to enter to our remote laboratory were provided in the document of the GOLC award.
+
 
 # Credit
 This study has been possible with the efforts of the following persons:

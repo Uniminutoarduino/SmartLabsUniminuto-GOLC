@@ -94,6 +94,12 @@ Instructions for reviewers (Spanish): https://youtu.be/g5oM3Qu31q0
 
 Credentials to enter to our remote laboratory were provided in the document of the GOLC award.
 
+# 5. Pending upgrades
+
+- Python console to debug scripts.
+- LoRa protocol and Programmable Logic Controller support 
+- Upgrade of sensors from HC1008 towards TMP102.
+
 
 # Credit
 This study has been possible with the efforts of the following persons:

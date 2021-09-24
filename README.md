@@ -11,6 +11,12 @@ The laboratory arose according to the educational problems regarding experimenta
 ![Imag1](https://user-images.githubusercontent.com/11606241/134404259-5af59424-fdb3-4c48-b344-de1bbe3d9db6.png)
 ###### Fig 1. Main feaures of smartlabsuniminuto.
 
+If you want to more about smartlabsuniminuto, please see these presentations:
+
+(English Presentation):
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=4iBcO_PigIo
+" target="_blank"><img src="http://img.youtube.com/vi/4iBcO_PigIo/0.jpg" 
+alt="Blocks-based programming" width="400" height="300" border="2" /></a>
 
 
 ## 1.1 Programming modes

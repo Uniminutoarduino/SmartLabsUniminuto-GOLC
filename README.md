@@ -90,7 +90,7 @@ Please, follow the instructions available at the following videos:
 
 Instructions for reviewers (English): https://youtu.be/neN03aYQ8tk
 
-Instructions for reviewers (Spanish)
+Instructions for reviewers (Spanish): https://youtu.be/g5oM3Qu31q0
 
 Credentials to enter to our remote laboratory were provided in the document of the GOLC award.
 

@@ -14,6 +14,7 @@ The laboratory arose according to the educational problems regarding experimenta
 If you want to more about smartlabsuniminuto, please see these presentations:
 
 (English Presentation):
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=4iBcO_PigIo
 " target="_blank"><img src="http://img.youtube.com/vi/4iBcO_PigIo/0.jpg" 
 alt="Blocks-based programming" width="400" height="300" border="2" /></a>
@@ -62,7 +63,7 @@ Our primary goal with *Smartlabsuniminuto* is to support the educational process
 - We tested the remote laboratory with n=30 students of Systems Engineering in 2020 (second semester). The average age of the students was 18.5 years with a students' distribution of 90% male and 10% female.
 - We have tested the remote laboratory with n=30 students of Systems Engineering in 2021 (first semester). The average age of the students was 19.1 years with a students' distribution of 87.71% male and 12.29% female.
 
-To collect the information and perceptions of the students about the remote laboratory in the courses, we developed two surveys (2020-2021) according to the Technology Acceptance Model (TAM). In general terms, the students have had a good acceptance of the laboratory which was manifested by the comments and the descriptive statistics in each category of the surveys. To know in-depth the results in (2020), please, consult the folder *Article (Paper IEEE Rita-preprint)* in this repository. This is a preprint article presented to the IEEE journal (Revista Iberoamericana de Tecnologias de Aprendizaje-RITA). The article was accepted with minor revisions and it could give an idea about the elements such technical as educational taken into account in the remote laboratory. 
+To collect the information and perceptions of the students about the remote laboratory in the courses, we developed two surveys (2020-2021) according to the Technology Acceptance Model (TAM). In general terms, the students have had a good acceptance of the laboratory which was manifested by the comments and the descriptive statistics in each category of the surveys. To know in-depth the results in (2020), please, consult the folder *Article (Paper IEEE Rita-preprint)* in this repository. This is a preprint article presented to the IEEE journal (Revista Iberoamericana de Tecnologias de Aprendizaje-RITA). The article was accepted with minor revisions and it could give an idea about the elements such as technical as educational taken into account in the remote laboratory. 
 
 If you want to see the surveys with their responses in Google Forms, please see the following links:
 - 2020 (https://docs.google.com/spreadsheets/d/1C93m2tW9Stez-d2noz7AoC18rDQcv62aNwe2zUAkjZs/edit?usp=sharing)

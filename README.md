@@ -35,7 +35,7 @@ There, the students can program directly in Python Language. This mode could be 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=1azGjeaalZ0
 " target="_blank"><img src="http://img.youtube.com/vi/1azGjeaalZ0/0.jpg" 
-alt="Text-based programming" width="400" height="300" border="2" /></a>
+alt="Text-based programming" width="500" height="300" border="2" /></a>
 
 ### 1.1.2 blocks-based programming
 There, the students can program using graphical blocks (Blockly). This mode could be used by novice students. In any moment the students can see the Python code for their blocks.
@@ -43,7 +43,7 @@ There, the students can program using graphical blocks (Blockly). This mode coul
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=TnZlTCT3V1w
 " target="_blank"><img src="http://img.youtube.com/vi/TnZlTCT3V1w/0.jpg" 
-alt="Blocks-based programming" width="400" height="300" border="2" /></a>
+alt="Blocks-based programming" width="500" height="300" border="2" /></a>
 
 ## 1.2 Hardware
 We have developed a low-cost module in a 3D printer to ensemble the different hardware elements employed in each node. Also, each module (0-17) counts with a robotic arm with 2 Degree of Freedom (DOF) and several additional components as it will be described in table 1. With the elements elaborated in a 3D printer, we accelerated the process of construction of the remote laboratory. 

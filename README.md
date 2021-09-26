@@ -109,6 +109,8 @@ This study has been possible with the efforts of the following persons:
 
 Program of Technology in Electronics and Systems Enginnering, Corporación Universitaria Minuto de Dios-UNIMINUTO
 
+https://www.uniminuto.edu/
+
 111021, Bogotá, Colombia
 
 **Thank you for your interest in this research :wink:**

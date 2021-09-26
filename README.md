@@ -98,7 +98,7 @@ Credentials to enter to our remote laboratory were provided in the document of t
 
 - Python console to debug scripts.
 - LoRa protocol and Programmable Logic Controller (PLC) support 
-- Upgrade of sensors from HC1008 towards TMP102.
+- Upgrade of sensors from HC1008 towards TMP102 in the nodes.
 
 
 # Credit

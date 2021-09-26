@@ -8,7 +8,8 @@ This is the online repository for the GOLC_2022 international award. In this rep
 
 The laboratory arose according to the educational problems regarding experimentation, hands-on activities, and learning by doing produced by the COVID-19 pandemic in 2020 from the second semester. The laboratory is focused on programming through Python Language and a beta version for control systems education with a level control plant. With the laboratory, the students can program in Python language and interact with hardware devices that have been interfaced with a Raspberry Pi in each node (Physical Computing). The remote laboratory is available in Spanish. Among the main features of *Smartlabsuniminuto*, we have:
 
-<img src="https://user-images.githubusercontent.com/11606241/134404259-5af59424-fdb3-4c48-b344-de1bbe3d9db6.png" align="left" width="500">
+<img src="https://user-images.githubusercontent.com/11606241/134404259-5af59424-fdb3-4c48-b344-de1bbe3d9db6.png" align="left" width="400">
+
 ###### Fig 1. Main feaures of smartlabsuniminuto.
 
 If you want to more information about *smartlabsuniminuto*, please see these presentations (click on the image):

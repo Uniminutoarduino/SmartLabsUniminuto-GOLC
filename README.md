@@ -71,7 +71,7 @@ Our primary goal with *Smartlabsuniminuto* is to support the educational process
 
 To collect the information and perceptions of the students about the remote laboratory in the courses, we developed two surveys (2020-2021) according to the Technology Acceptance Model (TAM). In general terms, the students have had a good acceptance of the laboratory which was manifested by the comments and the descriptive statistics in each category of the surveys. To know in-depth the results in (2020), please, consult the folder *Article (Paper IEEE Rita-preprint)* in this repository. This is a preprint article presented to the IEEE journal (Revista Iberoamericana de Tecnologias de Aprendizaje-RITA-http://rita.det.uvigo.es/IEEERITA2018/). The article was accepted with minor revisions and it could give an idea about the elements such as technical as educational taken into account in the remote laboratory. 
 
-If you want to see the surveys with their responses in Google Forms, please see the following links:
+If you want to see the surveys with the responses of the students in Google Forms, please see the following links:
 - 2020 (https://docs.google.com/spreadsheets/d/1C93m2tW9Stez-d2noz7AoC18rDQcv62aNwe2zUAkjZs/edit?usp=sharing)
 - 2021 (https://docs.google.com/spreadsheets/d/17mQAp9Me4CKpd2XKMxwKP06FYitIavrlkD0VlvXsBKU/edit?usp=sharing)
 

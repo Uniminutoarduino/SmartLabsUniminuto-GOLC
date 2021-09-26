@@ -38,7 +38,7 @@ There, the students can program directly in Python Language. This mode could be 
 alt="Text-based programming" width="400" height="300" border="2" /></a>
 
 ### 1.1.2 blocks-based programming
-There, the students can program using graphical blocks (Blockly). This mode could be used by novice students.
+There, the students can program using graphical blocks (Blockly). This mode could be used by novice students. In any moment the students can see the Python code for their blocks.
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=TnZlTCT3V1w

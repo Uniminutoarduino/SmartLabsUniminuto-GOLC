@@ -104,10 +104,8 @@ Credentials to enter to our remote laboratory were provided in the document of t
 # Credit
 This study has been possible with the efforts of the following persons:
 
-- MEd. Jonathan Álvarez Ariza: jalvarez@uniminuto.edu
-- MSc. Sergio Gónzalez Gil: segonzalez@uniminuto.edu
-
-Engineering Professors
+- Professors: Jonathan Álvarez Ariza: jalvarez@uniminuto.edu, Sergio Gónzalez Gil: segonzalez@uniminuto.edu
+- Students: Hansel Neira, Christian Nomesqui, Harold Chavarro
 
 Program of Technology in Electronics and Systems Enginnering, Corporación Universitaria Minuto de Dios-UNIMINUTO
 

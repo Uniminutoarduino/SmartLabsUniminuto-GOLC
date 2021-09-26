@@ -97,9 +97,9 @@ Credentials to enter to our remote laboratory were provided in the document of t
 
 # 5. Pending upgrades
 
-- Python console to debug scripts.
-- LoRa protocol and Programmable Logic Controller (PLC) support 
-- Upgrade of sensors from HC1008 towards TMP102 in the nodes.
+- Python console to debug scripts (November 2021-February 2022).
+- LoRa protocol and Programmable Logic Controller (PLC) support (November 2021-March 2022)
+- Upgrade of sensors from HC1008 towards TMP102 in the nodes (September 2021-December 2021).
 
 
 # Credit

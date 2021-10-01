@@ -26,7 +26,6 @@ alt="Blocks-based programming" width="400" height="300" border="2" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/bnkgsYKd124/0.jpg" 
 alt="Blocks-based programming" width="400" height="300" border="2" /></a>
 
-The help of these modes of programming with the educational materials is available at the following link: https://seconlearning.com/smartlabsuniminuto/doku.php
 
 ## 1.1 Programming modes
 Searching to expand the scope of students that could use our laboratory, we developed two programming modes (text-based, block-based). Please, click on the images to see the videos on YouTube.
@@ -50,6 +49,8 @@ alt="Blocks-based programming" width="500" height="350" border="2" /></a>
 We have developed a low-cost module in a 3D printer to ensemble the different hardware elements employed in each node. Also, each module (0-17) counts with a robotic arm with 2 Degree of Freedom (DOF) and several additional components as it will be described in table 1. With the elements elaborated in a 3D printer, we accelerated the process of construction of the remote laboratory. 
 
 <img src="https://user-images.githubusercontent.com/11606241/134495226-8488ba42-5131-460d-9ac9-fa17a9a82497.jpeg" width="300"><img src="https://user-images.githubusercontent.com/11606241/134497125-bb9c9359-bc7d-4bb7-937f-ba6ceebc54ae.jpg" width="400"><img src="https://user-images.githubusercontent.com/11606241/134805857-c008500d-0838-44ef-bab6-17514d280919.jpg" width="400"><img src="https://user-images.githubusercontent.com/11606241/134805860-f1c307ab-2137-4fa2-bea5-ec5a15d11119.jpg" width="300"><img src="https://user-images.githubusercontent.com/11606241/134495354-20166d25-2311-4edf-8eae-a30adc68fc31.jpg" width="300">
+
+The help of these modes of programming with the educational materials is available at the following link: https://seconlearning.com/smartlabsuniminuto/doku.php
 
 ###### Fig 2. Hardware components and materials. For the control plant (last picture), 1. Camera, 2. Raspberry module for sensor and motor pumps, 3. Tank control system. 
 

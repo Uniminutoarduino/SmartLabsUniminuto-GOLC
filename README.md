@@ -95,7 +95,14 @@ Instructions for reviewers (Spanish): https://youtu.be/g5oM3Qu31q0
 
 Credentials to enter to our remote laboratory were provided in the document of the GOLC award.
 
-# 5. Pending upgrades
+# 5. Costs
+The costs of implementation and debugging of the RL in dollars (USD) are shown in the table.
+
+| Description | Cost|
+| ------------- | ------------- |
+| Cost of each node | USD 200- USD 300 |
+
+# 6. Pending upgrades
 
 - Python console to debug scripts (November 2021-February 2022).
 - LoRa protocol and Programmable Logic Controller (PLC) support (November 2021-March 2022)

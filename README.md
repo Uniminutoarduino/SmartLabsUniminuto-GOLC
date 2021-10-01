@@ -96,11 +96,15 @@ Instructions for reviewers (Spanish): https://youtu.be/g5oM3Qu31q0
 Credentials to enter to our remote laboratory were provided in the document of the GOLC award.
 
 # 5. Costs
-The costs of implementation and debugging of the RL in dollars (USD) are shown in the table.
+The costs of the implementation and debugging of the RL in dollars (USD) are shown in the table. The purpose with the laboratory is to offer a low-cost but efficient Remote Laboratory (RL).
 
-| Description | Cost|
+| Description | Cost (USD)|
 | ------------- | ------------- |
-| Cost of each node | USD 200- USD 300 |
+| Cost of each node (1-18)|  200-300 (depending on the hardware components used) |
+| Cost of the control plant (Tank system) |  150   |
+| Server Maintenance by year|  1000  |
+
+Regarding server maintenance, other cheap options can be taken into account in order to reduce the costs. For instance, there are some Virtual Private Servers (VPS) with lower costs as USD 150 by six months. As for the cost of each node, it depends on the hardware devices available.
 
 # 6. Pending upgrades
 

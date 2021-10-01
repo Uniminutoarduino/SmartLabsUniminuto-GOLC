@@ -97,7 +97,7 @@ Instructions for reviewers (Spanish): https://youtu.be/g5oM3Qu31q0
 Credentials to enter to our remote laboratory were provided in the document of the GOLC award.
 
 # 5. Costs
-The costs of the implementation and debugging of the RL in dollars (USD) are shown in the table. The purpose with the laboratory is to offer a low-cost but efficient Remote Laboratory (RL).
+The costs of the implementation and debugging of the RL in dollars (USD) are shown in the table. The purpose of this initiative is to offer a low-cost but efficient Remote Laboratory (RL).
 
 | Description | Cost (USD)|
 | ------------- | ------------- |

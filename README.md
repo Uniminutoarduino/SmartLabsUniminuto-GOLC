@@ -104,9 +104,9 @@ The costs of the implementation and debugging of the RL in dollars (USD) are sho
 | ------------- | ------------- |
 | Cost of each node (1-18)|  200-300 (depending on the hardware components used) |
 | Cost of the control plant (Tank system) |  150   |
-| Server Maintenance by year|  1000  |
+| Server Maintenance (by year)-VPS service|  1000  |
 
-###### Table 2. Costs of the RL.
+###### Table 2. Costs of the RL. VPS (Virtual Private Server).
 
 Regarding server maintenance, other cheaper options can be taken into account in order to reduce the costs. For instance, there are some Virtual Private Servers (VPS) with lower costs as USD 150 by six months. As for the cost of each node, it depends on the hardware devices available and the version of the Raspberry Pi (4 or 3).
 

@@ -26,6 +26,7 @@ alt="Blocks-based programming" width="400" height="300" border="2" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/bnkgsYKd124/0.jpg" 
 alt="Blocks-based programming" width="400" height="300" border="2" /></a>
 
+The help of these modes of programming with the educational materials is available at the following link: https://seconlearning.com/smartlabsuniminuto/doku.php
 
 ## 1.1 Programming modes
 Searching to expand the scope of students that could use our laboratory, we developed two programming modes (text-based, block-based). Please, click on the images to see the videos on YouTube.

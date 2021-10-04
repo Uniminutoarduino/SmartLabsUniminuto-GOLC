@@ -114,7 +114,7 @@ Regarding server maintenance, other cheaper options can be taken into account in
 
 - Python console to debug scripts (November 2021-February 2022).
 - LoRa protocol and Programmable Logic Controller (PLC) support (November 2021-March 2022)
-- Upgrade of sensors from HC1008 towards SHT30 in the nodes (September 2021-October 2021). **Nodes 13-18 already count with the sensor SHT30 :wink:.**
+- Upgrade of sensors from HC1008 towards SHT30 in the nodes (September 2021-October 2021). **Nodes 13-18 already count with the sensor SHT30 :smile:**
 
 
 # Credit

@@ -1,0 +1,127 @@
+<xml xmlns="https://developers.google.com/blockly/xml">
+  <variables>
+    <variable id="b]/j*%1|e*rphB9@Z]2u">sensor</variable>
+    <variable id="6|b9,|7C-1,h=It!HjZx">sensorstr</variable>
+    <variable id="b6?QsbN[/_IbF^yEZA{8">sensorstrb</variable>
+  </variables>
+  <block type="variables_set" id="J/RbDTqA_fvPIfp*!xmV" x="-50" y="-50">
+    <field name="VAR" id="b]/j*%1|e*rphB9@Z]2u">sensor</field>
+    <value name="VALUE">
+      <block type="lists_create_with" id="tbsyBq9/(8AI!O.W96$t">
+        <mutation items="3"></mutation>
+        <value name="ADD0">
+          <block type="text" id="yiWEeWR+m$MbtG7wu!{q">
+            <field name="TEXT"></field>
+          </block>
+        </value>
+        <value name="ADD1">
+          <block type="text" id="D?%6|M/Lp_h]l/EQCk`m">
+            <field name="TEXT"></field>
+          </block>
+        </value>
+        <value name="ADD2">
+          <block type="text" id="J5*zOif^y4yezcC)_,Lz">
+            <field name="TEXT"></field>
+          </block>
+        </value>
+      </block>
+    </value>
+    <next>
+      <block type="controls_whileUntil" id="49Rehm(v7tp`;y@kU$@u">
+        <field name="MODE">WHILE</field>
+        <value name="BOOL">
+          <block type="logic_boolean" id=".-|#z/RSeG)43M7i*qvY">
+            <field name="BOOL">TRUE</field>
+          </block>
+        </value>
+        <statement name="DO">
+          <block type="peticionsht30" id="KsJ^ujVXz8zY4F~WAQM(">
+            <next>
+              <block type="variables_set" id="qh_E6fu`Z.Uq]5[e9ho@">
+                <field name="VAR" id="b]/j*%1|e*rphB9@Z]2u">sensor</field>
+                <value name="VALUE">
+                  <block type="leersht30" id="bnW+So^7iH7/p],URR_d"></block>
+                </value>
+                <next>
+                  <block type="variables_set" id=";6nn`IbD+Wl85bk|+9GY">
+                    <field name="VAR" id="6|b9,|7C-1,h=It!HjZx">sensorstr</field>
+                    <value name="VALUE">
+                      <block type="convertirstr" id="ifg6[@.o6R6RWq4Md}gf">
+                        <value name="variable">
+                          <block type="lists_getIndex" id="u0@H@/%nj=BnwQ?lT88y">
+                            <mutation statement="false" at="true"></mutation>
+                            <field name="MODE">GET</field>
+                            <field name="WHERE">FROM_START</field>
+                            <value name="VALUE">
+                              <block type="variables_get" id="*$TT8m*G8=s;E!DH}PL-">
+                                <field name="VAR" id="b]/j*%1|e*rphB9@Z]2u">sensor</field>
+                              </block>
+                            </value>
+                            <value name="AT">
+                              <block type="math_number" id="lNB:.D!zdx$MX7E~cY)G">
+                                <field name="NUM">1</field>
+                              </block>
+                            </value>
+                          </block>
+                        </value>
+                      </block>
+                    </value>
+                    <next>
+                      <block type="variables_set" id="CgsaVih)?y*mdHu;P72m">
+                        <field name="VAR" id="b6?QsbN[/_IbF^yEZA{8">sensorstrb</field>
+                        <value name="VALUE">
+                          <block type="convertirstr" id="0=^f%`*(/+]FRWrlM4e(">
+                            <value name="variable">
+                              <block type="lists_getIndex" id="j/o{bb}O^BON=3!jpsVr">
+                                <mutation statement="false" at="true"></mutation>
+                                <field name="MODE">GET</field>
+                                <field name="WHERE">FROM_START</field>
+                                <value name="VALUE">
+                                  <block type="variables_get" id="e:8PU6em_!IYoO2G[)[W">
+                                    <field name="VAR" id="b]/j*%1|e*rphB9@Z]2u">sensor</field>
+                                  </block>
+                                </value>
+                                <value name="AT">
+                                  <block type="math_number" id="1J9(Z.3JZ?_8K2qqm;YM">
+                                    <field name="NUM">3</field>
+                                  </block>
+                                </value>
+                              </block>
+                            </value>
+                          </block>
+                        </value>
+                        <next>
+                          <block type="graficar2var" id="j`O4M!es9D1v4Xj}4QV.">
+                            <value name="var1">
+                              <block type="variables_get" id="]V?9+{|8g8eRhr3lR#!`">
+                                <field name="VAR" id="6|b9,|7C-1,h=It!HjZx">sensorstr</field>
+                              </block>
+                            </value>
+                            <value name="var2">
+                              <block type="variables_get" id="1r`1GU2SgaS+emWIW$S$">
+                                <field name="VAR" id="b6?QsbN[/_IbF^yEZA{8">sensorstrb</field>
+                              </block>
+                            </value>
+                            <next>
+                              <block type="retraso" id="Eo*[c(UuW7G**]77w3fD">
+                                <value name="Tiempo">
+                                  <block type="math_number" id="Wq{p*4G$7`zRsMb9ej_6">
+                                    <field name="NUM">1</field>
+                                  </block>
+                                </value>
+                              </block>
+                            </next>
+                          </block>
+                        </next>
+                      </block>
+                    </next>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </statement>
+      </block>
+    </next>
+  </block>
+</xml>

@@ -105,6 +105,7 @@ The costs of the implementation and debugging of the RL in dollars (USD) are sho
 | Cost of each node (1-18)|  200-300 (depending on the hardware components used) |
 | Cost of the control plant (Tank system) |  150   |
 | Server Maintenance (by year)-VPS service|  1000  |
+| Total Max Costs|  1450  |
 
 ###### Table 2. Costs of the RL. VPS (Virtual Private Server).
 

@@ -80,6 +80,10 @@ If you want to see the surveys with the responses of the students in Google Form
 
 The laboratory has been improved continuosly, and the students evaluated the laboratory in 2020 and 2021 with 4.25 and 4.61 in a scale from 0 to 5, respectively. In 2020, The students described some problems with the camera and video codecs that were solved for the year 2021, reducing, for instance, the video bandwidth in each node.
 
+Some videos made by the students with the remote laboratory can be seen in the following link:
+
+https://drive.google.com/drive/folders/1MCQRGiAie61a072QKWMHQRdbVi-zeKbw?usp=sharing
+
 # 3. Description of files and folders in the repository
 
 **Folders**
